@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 3713,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/stop-azure-classic-vms/master/Stop-AzureVMs.ps1",
+    "DownloadCount": 18883,
+    "Id": "Stop-Azure-Classic-VMs-7a4ae43e",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "Popularity": 63,
+    "RaterCount": 5,
+    "Rating": 4.8,
+    "ReleaseDate": "2015-9-10T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This PowerShell Workflow runbook connects to Azure and stops all classic VMs in an Azure subscription or cloud service.  You can attach a schedule to this runbook to run it at a specific time.",
+    "Title": "Stop Azure Classic VMs",
+    "UpdatedDate": "2016-5-18T00:00:00",
+    "Url": "https://github.com/azureautomation/stop-azure-classic-vms",
+    "UserTags": "Virtual Machine, Azure Automation, VM Lifecycle Management"
+}
